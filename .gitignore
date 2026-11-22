@@ -1,0 +1,17 @@
+# 빌드 결과물
+target/
+build/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# 로컬 설정, 비밀 값 (절대 커밋하지 않기)
+.env
+*.pem
+*.key
+application-local.properties
